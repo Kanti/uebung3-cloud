@@ -31,3 +31,7 @@ Es folgen die Festlegung der Umgebung und des Arbeitsordners. Dann wird haproxy 
 #### Konfigurationen
 
 Die Konfiguration des haproxy stammt aus der gegebenen Vorlage und die  des nginx entspricht der Standard Konfiguration.
+
+#### Setup
+
+``docker-compose up -d``
